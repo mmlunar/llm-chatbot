@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Dataset & input cache
+input_data/
+
+# Model checkpoints
+checkpoints/
+
+# Environment / dependency files
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch artifacts
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
